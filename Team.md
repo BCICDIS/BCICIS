@@ -1,85 +1,253 @@
-# <strong><em>BCICIS</em></strong> Team Lists
+# **_BCICIS_** Team Lists 🌍
 
-- `Africa`
-  ---
-  Leader
-  - <a href="" target="_blank"><span>Person</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
-  
-- `Antarctica`
-  ---
-  Leader
-  - <a href="" target="_blank"><span>Person</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
-    
-- `Asia`
-  ---
-  Leader
-  - <a href="https://github.com/LoneStamp" target="_blank"><span>Jednaz Lonestamp</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
-    
-- `Australia`
-  ---
-  Leader
-  - <a href="" target="_blank"><span>Person</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
-    
-- `Europe`
-  ---
-  Leader
-  - <a href="" target="_blank"><span>Person</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
-    
-- `North America`
-  ---
-  Leader
-  - <a href="" target="_blank"><span>Person</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
-    
-- `South America`
-  ---
-  Leader
-  - <a href="" target="_blank"><span>Person</span></a>
-  
-  Members
-    - <a href="" target="_blank"><span>Head member</span></a>
-    - <a href="" target="_blank"><span>Submember 1</span></a>
-    - <a href="" target="_blank"><span>Submember 2</span></a>
-    - <a href="" target="_blank"><span>Submember 3</span></a>
-    - <a href="" target="_blank"><span>Submember 4</span></a>
+### Profiles
+
+#### `Africa` 🌍
+---
+**Leader**
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Person</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+**Members**
+
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Head member</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 1</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 2</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 3</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 4</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+
+#### `Antarctica` ❄️
+---
+**Leader**
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Person</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+**Members**
+
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Head member</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 1</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 2</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 3</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 4</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+
+#### `Asia` 🌏
+---
+**Leader**
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Person</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+**Members**
+
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Head member</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 1</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 2</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 3</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 4</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+#### `Europe` 🌍
+---
+**Leader**
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Person</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+**Members**
+
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Head member</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 1</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 2</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 3</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 4</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+
+#### `North America` 🦅
+---
+**Leader**
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Person</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+**Members**
+
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Head member</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 1</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 2</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 3</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 4</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+
+#### `South America` 🌎
+---
+**Leader**
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Person</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+**Members**
+
+- <img src="" width="20px" height="20px" /> <a href="" target="_blank"><span>Head member</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 1</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 2</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 3</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
+
+- <img src="" width="20px" height="20px" /><a href="" target="_blank"><span>Submember 4</span></a>
+
+| Age | Country | Sex  | Oath  | Qoutes | Mission        | Vision            |
+|-----|---------|------|-------|--------|----------------|-------------------|
+|     |         |      |       |        |                |                   |
