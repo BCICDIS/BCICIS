@@ -10,6 +10,13 @@ Welcome to **<strong>Black Corp: Integrated Cyberspace Intelligence Security</st
 
 We are a Non-Governmental Organization (NGO) focused on developing and advancing the field of Open-Source Intelligence (OSINT) with a focus on cyberspace. Although still in its early stages, we are committed to learning, growing, and collaborating with like-minded individuals and organizations to fulfill our vision of becoming a leading name in OSINT and intelligence investigations.
 
+**Our Organization operates in two divisions:**
+
+1. **Public Division:** Focused on public awareness, tutorials, and developing open-source tools and resources for intelligence and cybersecurity professionals. This division is dedicated to education, outreach, and providing valuable resources to the global community.
+
+2. **Deep-division:** Specializes in high-risk, covert, and intricate intelligence missions. The Deep-division operates beyond the surface level, tackling more sensitive, complex, and confidential operations within the cyberspace realm. This division is the backbone of our organization’s riskier missions and intelligence investigations, working on challenging objectives that often involve closed-source or restricted environments.
+
+
 ---
 
 ## **Preface**
@@ -102,6 +109,23 @@ We are committed to upholding the highest standards of ethics, including:
 - **No Malicious Intent:** We strictly prohibit the use of our tools and resources for harmful or unethical purposes.
 
 ---
+
+## **Deep-division Portal**
+
+The **Deep-division** is an elite unit within our organization that operates with precision and confidentiality. This division handles high-risk missions that demand specialized skills, advanced tools, and a deep understanding of intelligence techniques that go beyond public operations.
+
+### **Key Focus Areas:**
+- **High-risk Cyber Missions:** Engaging in deep investigations within restricted or high-security environments.
+- **Covert Operations:** Handling confidential intelligence gathering that requires non-traditional and highly sophisticated techniques.
+- **Advanced Threat Detection:** Identifying, analyzing, and neutralizing complex threats in cyberspace.
+- **Digital Forensics & Incident Response:** Providing support for forensic investigations and incident response in sensitive cases.
+
+### **Operational Ethics:**
+- **Mission Risk Management:** Ensuring that all operations are conducted with careful assessment of risk and impact.
+- **Confidentiality:** Maintaining the highest standards of confidentiality and discretion in all deep-division operations.
+- **Ethical Boundaries:** Upholding ethical boundaries even within high-risk operations to ensure that our work respects international laws and rights.
+
+**Note:** Access to the **Deep-division** resources, tools, and missions is restricted and requires special clearance within our organization. Only those with proper training and ethical commitment are permitted to join this division.
 
 ## **Support Us**
 
