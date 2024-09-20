@@ -1,8 +1,8 @@
 <!---
 
-# **Welcome to <strong>Black Corp: Integrated Cyberspace Intelligence Security</strong>**
+# **<strong>Welcome to Black Corp: Integrated Cyberspace Intelligence Security</strong>**
 
-Welcome to **<strong>Black Corp: Integrated Cyberspace Intelligence Security</strong>**, a student-founded initiative dedicated to developing cutting-edge intelligence solutions across cyberspace. We aim to equip professionals and enthusiasts with the tools, knowledge, and techniques to navigate the evolving world of intelligence, cybersecurity, and investigative analysis.
+Welcome to **Black Corp: Integrated Cyberspace Intelligence Security**, a student-founded initiative dedicated to developing cutting-edge intelligence solutions across cyberspace. We aim to equip professionals and enthusiasts with the tools, knowledge, and techniques to navigate the evolving world of intelligence, cybersecurity, and investigative analysis.
 
 ---
 
